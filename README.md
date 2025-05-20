@@ -1,2 +1,2 @@
-Company name: Sthyne Core Global
+Company name: Sthyne Core Global,  
 We are investments Specialists
